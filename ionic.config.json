@@ -1,0 +1,7 @@
+{
+  "name": "resterApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
